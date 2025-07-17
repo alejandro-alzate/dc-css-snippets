@@ -1,0 +1,7 @@
+@import url("https://raw.githubusercontent.com/Augenbl1ck/Discord-Styles/refs/heads/main/userArea.css");
+
+:root {
+	/* Only include this part if you wish to change these variables */
+	--user-area-border-width: 1.5px;
+	--user-area-border-color: rgba(121, 227, 121, 0.5);
+}
